@@ -25,3 +25,4 @@ How did I venture into the world of programming, one might ask?
 ### How to contact me?
 
 - For work/project related please send an email on muhammadmasood1557@gmail.com
+- To request assistance or make inquiries about my GitHub projects, kindly submit pull requests.
