@@ -1,4 +1,4 @@
-## Greetings, newcomer, to my profile. Brace yourself, for the journey ahead is filled with trials. Let us embark upon it together.⚠️##
+## ⚠️Greetings, newcomer, to my profile. Brace yourself, for the journey ahead is filled with trials. Let us embark upon it together.⚠️
 
 ##-> Expertise in multiple lanaguages
 
