@@ -4,7 +4,7 @@
 
 Hey there👋, I'm Muhammad. 
 
-I'm a junior developer currently pursuing a Bachelor's in Computer Sciences at FAST NUCES Lahore. Throughout my academic journey, I've undertaken multiple projects, which have made me comfortable with coding and navigating various computer technologies. I have experienced various technological transitions, from the era of Windows XP to witnessing the latest advancements in AI innovation.
+I'm a junior developer currently pursuing a Bachelor's degree in Computer Sciences at FAST NUCES Lahore. Throughout my academic journey, I've undertaken multiple projects, which have made me comfortable with coding and navigating various computer technologies. I have experienced various technological transitions, from the era of Windows XP to witnessing the latest advancements in AI innovation.
 
 How did I venture into the world of programming, one might ask?
 
